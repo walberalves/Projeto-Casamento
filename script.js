@@ -77,8 +77,7 @@ document.addEventListener("DOMContentLoaded", function() {
       data.video = videoPreview.src;
     }
     console.log("Dados a serem enviados:", data);
-    // Aqui você pode enviar os dados para o servidor via AJAX, fetch, etc.
-    // Por enquanto, vamos apenas exibir os dados no console
+    // dados a serem enviados via ajax ou etc
     console.log("Mensagem enviada:", data.message);
     if (data.photo) {
       console.log("Foto enviada:", data.photo);
