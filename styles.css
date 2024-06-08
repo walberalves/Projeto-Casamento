@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  color: #fff;
+  color: #c45824;
   padding: 20px;
   text-align: center;
   font-family: Lucida Handwriting-std;
@@ -42,7 +42,7 @@ button {
   font-size: 18px;
   font-family: Lucida Handwriting-std;
   cursor: pointer;
-  background-color: #f3674a;
+  background-color: #c45824;
   color: black;
   border: none;
   border-radius: 5px;
@@ -50,7 +50,7 @@ button {
 }
 
 button:hover {
-  background-color: #ccc;
+  background-color: #f3674a;
 }
 
 textarea {
@@ -58,7 +58,7 @@ textarea {
   padding: 10px;
   font-size: 16px;
   border-radius: 5px;
-  border: 1px solid #f3674a;
+  border: 1px solid #c45824;
   margin-bottom: 10px;
 }
 
